@@ -4,7 +4,6 @@
   <p><i>AI vs Real Artwork Detection</i></p>
 </div>
 
-[Detect Your Artwork!](https://huggingface.co/spaces/goetzel11/TrueOrigin) 
 ---
 
 ## Program Description
