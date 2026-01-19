@@ -3,7 +3,7 @@
   <h1 style="margin-top: 0px;">TrueOrigin</h1>
   <p><i>AI vs Real Artwork Detection</i></p>
 </div>
-
+ 
 ---
 
 ## Program Description
