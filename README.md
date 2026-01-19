@@ -95,7 +95,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
       <h3>Rangga Irwanto Putra Kiat</h3>     
       <p><b>Role:</b> Data Analyst</p>
       <a href="https://github.com/UngiiiKiat">GitHub</a> • 
-      <a href="www.linkedin.com/in/rangga-kiat">LinkedIn</a>
+      <a href="www.linkedin.com/in/rangga-kiat/">LinkedIn</a>
     </td>
 
    <td align="center" width="220">
@@ -103,7 +103,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
       <h3>Muhammad Afza Nur Hakim</h3>
       <p><b>Role:</b> Data Scientist</p>
       <a href="https://github.com/afzanurhakim">GitHub</a> • 
-      <a href="https://www.linkedin.com/in/LINKEDIN2/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/afzanurhakim/">LinkedIn</a>
     </td>
 
    <td align="center" width="220">
@@ -111,7 +111,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
       <h3>Achmad Ghulam Habib Al-widani</h3>
       <p><b>Role:</b> Data Scientist</p>
       <a href="https://github.com/Ghulaaaam">GitHub</a> • 
-      <a href="https://www.linkedin.com/in/LINKEDIN3/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/achmadgulam/">LinkedIn</a>
     </td>
 
    <td align="center" width="220">
@@ -119,7 +119,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
       <h3>Muhammad Aldzahabi Mawarid</h3>
       <p><b>Role:</b> Data Engineer</p>
       <a href="https://github.com/goetzel11">GitHub</a> • 
-      <a href="https://www.linkedin.com/in/LINKEDIN4/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/Alhazabi/">LinkedIn</a>
     </td>
   </tr>
 </table>
