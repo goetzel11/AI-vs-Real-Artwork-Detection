@@ -111,7 +111,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
       <h3>Achmad Ghulam Habib Al-widani</h3>
       <p><b>Role:</b> Data Scientist</p>
       <a href="https://github.com/Ghulaaaam">GitHub</a> • 
-      <a href="https://www.linkedin.com/in/achmadgulam/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/achmadghulam/">LinkedIn</a>
     </td>
 
    <td align="center" width="220">
@@ -119,7 +119,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
       <h3>Muhammad Aldzahabi Mawarid</h3>
       <p><b>Role:</b> Data Engineer</p>
       <a href="https://github.com/goetzel11">GitHub</a> • 
-      <a href="https://www.linkedin.com/in/Alhazabi/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/Aldzahabi/">LinkedIn</a>
     </td>
   </tr>
 </table>
