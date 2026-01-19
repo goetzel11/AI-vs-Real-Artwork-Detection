@@ -95,7 +95,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
       <h3>Rangga Irwanto Putra Kiat</h3>     
       <p><b>Role:</b> Data Analyst</p>
       <a href="https://github.com/UngiiiKiat">GitHub</a> • 
-      <a href="www.linkedin.com/in/ranggakiat/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/ranggakiat/">LinkedIn</a>
     </td>
 
    <td align="center" width="220">
