@@ -117,7 +117,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
    <td align="center" width="220">
       <img src="https://github.com/goetzel11.png" width="110" height="110" style="border-radius: 50%;" />
       <h3>Muhammad Aldzahabi Mawarid</h3>
-      <p><b>Role:</b> Data Engineering</p>
+      <p><b>Role:</b> Data Engineer</p>
       <a href="https://github.com/goetzel11">GitHub</a> • 
       <a href="https://www.linkedin.com/in/LINKEDIN4/">LinkedIn</a>
     </td>
